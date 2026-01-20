@@ -1,9 +1,16 @@
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.youtube.com/@bishaldsrijal" target="_blank" rel="noreferrer">Bishal Rijal aka Digital Bishal</a>👋
 </h3>
 
-A school teacher, mentor and instructor, and a lifelong learner at heart.
+A school teacher, mentor, and instructor, and a lifelong learner at heart.
+
+## 🎥 Video Playlist
+
+### YouTube Playlist
+
+[![Watch the playlist on YouTube](https://i.ytimg.com/vi/8J2tMUw5ikM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCIGeXT4jjLsUbmGi-2Gr86cPHmGQ)](https://youtube.com/playlist?list=PLw20OwtGqinzmI-LlRJpoRAz6-4zBsK71)
+
+👉 Click the image to watch
 
 ### 🤝 Connect with me:
 
@@ -72,3 +79,4 @@ A school teacher, mentor and instructor, and a lifelong learner at heart.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldsrija08&show_icons=true&locale=en" alt="bishaldsrija08" /></p>
+

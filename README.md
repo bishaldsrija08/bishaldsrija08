@@ -4,13 +4,14 @@ Hi there, I'm <a href="https://www.youtube.com/@bishaldsrijal" target="_blank" r
 
 A school teacher, mentor, and instructor, and a lifelong learner at heart.
 
-## 🎥 Video Playlist
+## 🎥 Video Playlists
 
 ### YouTube Playlist
 
 [![Watch the playlist on YouTube](https://i.ytimg.com/vi/8J2tMUw5ikM/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCIGeXT4jjLsUbmGi-2Gr86cPHmGQ)](https://youtube.com/playlist?list=PLw20OwtGqinzmI-LlRJpoRAz6-4zBsK71)
+&nbsp;
+[![Watch the playlist on YouTube](https://i.ytimg.com/vi/LdOpxlm6Zao/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKDE1cFECh-fdTCb5PajBmDnYxew)](https://youtube.com/playlist?list=PLw20OwtGqinyZmpcmvyysX10cAnTFPvIt&si=D7gCg3zTN2UlX3tm)
 
-👉 Click the image to watch
 
 ### 🤝 Connect with me:
 
@@ -79,4 +80,5 @@ A school teacher, mentor, and instructor, and a lifelong learner at heart.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldsrija08&show_icons=true&locale=en" alt="bishaldsrija08" /></p>
+
 

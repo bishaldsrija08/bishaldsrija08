@@ -1,34 +1,19 @@
-<h1 align="center">Hi 👋, I'm Bishal Rijal</h1>
-<h3 align="center">A passionate website developer from Nepal.</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=bishaldsrija08&label=Profile%20views&color=0e75b6&style=flat" alt="bishaldsrija08" /> 
-</p>
+<h3 align="center">
+Hi there, I'm <a href="https://www.youtube.com/@bishaldsrijal" target="_blank" rel="noreferrer">Bishal Rijal aka Digital Bishal</a>👋
+</h3>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bishaldsrija08" alt="bishaldsrija08" />
-  </a> 
-</p>
+A school teacher, mentor and instructor, and a lifelong learner at heart.
 
-<p align="left"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
+### 🤝 Connect with me:
 
-- 🌱 I’m currently learning **MERN**
-- 💬 Ask me about **JavaScript**
-- 📫 How to reach me **bishaldsrijal1@gmail.com**
-
----
+<a href="https://www.linkedin.com/in/bishalrijal08/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bishal Rijal | Digital Bishal | LinkedIn" width="21px"/></a>
+<a href="https://medium.com/@bishaldsrijal"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Bishal Rijal|Digital Bishal" width="21px"/></a>
+</br>
 
 ### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-📢 *These blog posts are automatically updated from my [Medium profile](https://medium.com/@bishaldsrijal) every day!*
-
+- [How to Integrate Tailwind CSS v4 in a React + Vite Project?](https://medium.com/@bishaldsrijal/how-to-integrate-tailwind-css-v4-in-a-react-vite-project-5a42ae42f55e)
+- [How to connect MongoDB (Atlas) and Node.js?](https://medium.com/@bishaldsrijal/how-to-connect-mongodb-atlas-and-node-js-d35ea88e6e13)
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -87,8 +72,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldsrija08&show_icons=true&locale=en" alt="bishaldsrija08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishaldsrija08&" alt="bishaldsrija08" /></p>
-
-
-

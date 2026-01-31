@@ -72,5 +72,3 @@ A school teacher, mentor, and instructor, and a lifelong learner at heart.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bishaldsrija08)](https://git.io/streak-stats)

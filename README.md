@@ -73,12 +73,5 @@ A school teacher, mentor, and instructor, and a lifelong learner at heart.
   </a> 
 </p>
 
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishaldsrija08&show_icons=true&locale=en&layout=compact" alt="bishaldsrija08" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishaldsrija08&show_icons=true&locale=en" alt="bishaldsrija08" /></p>
 
 

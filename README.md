@@ -12,6 +12,8 @@ A school teacher, mentor, and instructor, and a lifelong learner at heart.
 &nbsp;
 [![Watch the playlist on YouTube](https://i.ytimg.com/vi/LdOpxlm6Zao/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKDE1cFECh-fdTCb5PajBmDnYxew)](https://youtube.com/playlist?list=PLw20OwtGqinyZmpcmvyysX10cAnTFPvIt&si=D7gCg3zTN2UlX3tm)
 
+[![Watch the playlist on YouTube](https://i.ytimg.com/vi/LdOpxlm6Zao/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDKDE1cFECh-fdTCb5PajBmDnYxew)](https://youtube.com/playlist?list=PLw20OwtGqinyh46lawa4EKChHgcL6hy_5&si=7OjgVz_pYOFMB8_T)
+
 
 ### 🤝 Connect with me:
 
@@ -72,3 +74,4 @@ A school teacher, mentor, and instructor, and a lifelong learner at heart.
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
+
